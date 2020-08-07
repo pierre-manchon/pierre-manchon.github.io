@@ -1,6 +1,7 @@
 /*
 navbar.js
 */
+
 function openNav() {
   document.getElementById("sidenav").style.width = "250px";
   document.getElementById("main").style.marginLeft = "250px";
