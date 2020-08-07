@@ -25,3 +25,7 @@ The CLI should be used like this at the final stage of usability
 `../python.exe ../SIDM_CLI.py -program=Landsat -sensor=OLI-TIRS -satellite=Landsat 8 -processing_correction_level=L1TP
 -wrs_path=187 -wrs_row=022 -acquisition_date=20190202 -processing_year=None -collection_number=None
 -collection_category=None`
+
+Website
+----
+In progress
