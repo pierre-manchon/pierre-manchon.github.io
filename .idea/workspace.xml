@@ -1,11 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7e962655-eef6-4b65-b4fe-2bb595c4e209" name="Default Changelist" comment="[A] index.html&#10;[M] workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/editor-blocks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/customizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.flexslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/breadcrumb_stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/breadcrumb_stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/featured-content/content-featured-full.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/featured-content/content-featured.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/featured-content/content-page-highlight.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/featured-content/display-featured.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/testimonials/archive-jetpack-testimonial.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/testimonials/content-testimonials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/features/testimonials/display-testimonials.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/footer/site-info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/header/site-branding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/navigation/navigation-bottom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/navigation/navigation-top.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/page/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content-card.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content-footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content-meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/post/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/custom-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/extras.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/he.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/id.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/pt-br.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/zh-cn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/headstart/zh-tw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/jetpack-fonts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/jetpack.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/updater.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ar.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ar.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/az.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/az.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/bs_BA.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/bs_BA.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ca.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ca.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/coherent.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/cs_CZ.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/cs_CZ.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/cy.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/cy.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/da_DK.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/da_DK.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/de_DE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/de_DE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/el.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/el.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/eo.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/eo.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/es_ES.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/es_ES.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fa_IR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fa_IR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fi.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fi.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fr_CA.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fr_CA.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fr_FR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/fr_FR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ga.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ga.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/gl_ES.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/gl_ES.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/he_IL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/he_IL.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hi_IN.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hi_IN.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hr.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hr.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hu_HU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hu_HU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hy.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/hy.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/id_ID.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/id_ID.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/is_IS.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/is_IS.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/it_IT.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/it_IT.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ja.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ja.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ko_KR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ko_KR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/lt_LT.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/lt_LT.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/nl_NL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/nl_NL.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/no.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/no.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pl_PL.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pl_PL.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pt_BR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pt_BR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pt_PT.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/pt_PT.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ro_RO.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ro_RO.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ru_RU.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ru_RU.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/si_LK.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/si_LK.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sk_SK.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sk_SK.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sq.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sq.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sr_RS.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sr_RS.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sv_SE.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/sv_SE.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/te.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/te.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/textbook.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/th.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/th.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/tr_TR.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/tr_TR.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/uk.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/uk.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ur.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/ur.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/zh_CN.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/zh_CN.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/zh_TW.mo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/zh_TW.po" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidebar-footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/easy_install-3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/pip3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/bin/python3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,20 +244,13 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="build" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="C:\Users\Pierre\PycharmProjects\pierrot-m.github.io\.idea" />
-      </set>
-    </option>
   </component>
   <component name="ProjectId" id="1ShzXItNVstkz252nOqrKaJSvIh" />
   <component name="ProjectLevelVcsManager">
@@ -74,18 +264,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test_hors_connection" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
@@ -126,13 +304,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -141,5 +318,11 @@
     <MESSAGE value="[A] index.html&#10;[M] workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="[A] index.html&#10;[M] workspace.xml" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596834308345">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596834308345" />
   </component>
 </project>
