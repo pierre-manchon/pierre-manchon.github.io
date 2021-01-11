@@ -23,8 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/navbar.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,10 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -109,6 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572030654374</updated>
+      <workItem from="1610045993778" duration="162000" />
+      <workItem from="1610051749650" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit - wordpress theme initial add">
       <created>1572030794407</created>
@@ -141,6 +144,9 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
@@ -168,19 +174,5 @@
     <MESSAGE value="[M] index.html&#10;=&gt; Moved to ../docs/&#10;=&gt; Replaced links in .css and .js" />
     <option name="LAST_COMMIT_MESSAGE" value="[M] index.html&#10;=&gt; Moved to ../docs/&#10;=&gt; Replaced links in .css and .js" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596834308345">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1596834308345" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1596838305086">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1596838305086" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596926606527">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1596926606527" />
   </component>
 </project>
