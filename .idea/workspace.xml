@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e962655-eef6-4b65-b4fe-2bb595c4e209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/navbar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/navbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +115,8 @@
       <workItem from="1610712361058" duration="172000" />
       <workItem from="1610832612686" duration="4361000" />
       <workItem from="1610885798454" duration="1869000" />
+      <workItem from="1611069082978" duration="615000" />
+      <workItem from="1611071933929" duration="7347000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit - wordpress theme initial add">
       <created>1572030794407</created>
