@@ -21,7 +21,9 @@ function generateTable(table, data_array) {
     input.type = 'button';
     input.name = data['link'];
     input.value = data['title'];
-    input.onload = 'switchiframe(this)';
+    input.addEventListener('click', function(){
+      switchiframe(this);
+    });
     txt_cell.appendChild(title);
     btn_cell.appendChild(input);
   })
