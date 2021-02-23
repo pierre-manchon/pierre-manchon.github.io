@@ -12,7 +12,7 @@
      padding: 1rem;
      z-index: 200;
 }
-.body-iframe {
+.main_iframe {
     position: absolute;
     top: 0;
     left: 0;
