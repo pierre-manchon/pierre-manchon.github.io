@@ -10,26 +10,28 @@ function switchiframe(element) {
     document.getElementById("main").src=element.name;
 }
 
-function generateTable(table, data) {
-  data.forEach(element => {
+function e() {
+  console.log('test');
+}
+
+function generateTable(table, data_array) {
+  data_array.forEach(data => {
     let row = table.insertRow();
-    let cell = row.insertCell();
-    let txt = document.createTextNode(element['title']);
+    let txt_cell = row.insertCell();
+    let btn_cell = row.insertCell();
+    let txt = document.createTextNode(data['title']);
     let input = document.createElement("input");
-    console.log(element.key)
     input.type = "button";
-    input.name = element["link"];
-    input.value = element["title"];
-    input.onclick = "switchiframe(this)";
-    cell.appendChild(txt);
-    cell.appendChild(input);
-  }
-  )
+    input.name = data["link"];
+    input.value = data["title"];
+    input.onload = e();
+    txt_cell.appendChild(txt);
+    btn_cell.appendChild(input);
+  })
 }
 
 let table = document.querySelector("table");
 generateTable(table, website_links);
-
 
 /*
 function generateTables() {
