@@ -20,6 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e962655-eef6-4b65-b4fe-2bb595c4e209" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/ajax_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/build_table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/iframe_src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/table.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/stylesheet.css" afterDir="false" />
@@ -91,8 +96,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EOSIMVTools" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -117,6 +126,19 @@
       <workItem from="1610885798454" duration="1869000" />
       <workItem from="1611069082978" duration="615000" />
       <workItem from="1611071933929" duration="7347000" />
+      <workItem from="1611081417987" duration="114000" />
+      <workItem from="1611795638644" duration="105000" />
+      <workItem from="1613156402556" duration="5950000" />
+      <workItem from="1613215215544" duration="1548000" />
+      <workItem from="1613428122555" duration="2225000" />
+      <workItem from="1613754961415" duration="181000" />
+      <workItem from="1613768550152" duration="12000" />
+      <workItem from="1613768687575" duration="7214000" />
+      <workItem from="1613817114955" duration="3120000" />
+      <workItem from="1613998845497" duration="574000" />
+      <workItem from="1614000066721" duration="11251000" />
+      <workItem from="1614086811972" duration="1003000" />
+      <workItem from="1614088560190" duration="357000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit - wordpress theme initial add">
       <created>1572030794407</created>
@@ -154,6 +176,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -171,7 +194,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit - wordpress theme initial add" />
     <MESSAGE value="[A] index.html&#10;[M] workspace.xml" />
