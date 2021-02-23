@@ -29,11 +29,3 @@ function generateTable(table, data_array) {
 
 let table = document.querySelector("table");
 generateTable(table, website_links);
-
-/*
-function generateTables() {
-  let website_links_parsed = website_links.map(function(o) {
-    return o;
-  });
-}
-*/
