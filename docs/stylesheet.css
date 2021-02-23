@@ -1,6 +1,4 @@
-@charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 /* controle le header */
  .header {
      display: flex;
@@ -14,7 +12,6 @@
      padding: 1rem;
      z-index: 200;
 }
-
 .body-iframe {
     position: absolute;
     top: 0;
@@ -24,147 +21,15 @@
     border: none;
 }
 
-/* controle le contenu de la page principale */
- body {
-     font-family: 'JetBrains Mono', monospace;
-     font-size: 0.5rem;
-     background-color: #151515;
-}
- @media (min-width: 450px) {
+  @media (min-width: 450px) {
      body {
          font-size: 1.25rem;
     }
 }
-
  /* ne change rien */
  .title {
      margin-bottom: 1.5rem;
      font-family: 'Shrikhand', serif;
      font-size: 2rem;
      line-height: 1.2;
-}
-
- /* controle le nav et le contenu du menu */
-/* controle le contenu du nav */
- nav {
-     display: flex;
-     position: absolute;
-     top: 0;
-     left: 0;
-     padding: 3rem 1rem 1rem;
-     width: 100vw;
-     color: ivory;
-     min-height: 100vh;
-     text-align: center;
-     background-color: #151515;
-     transform: translateX(100%);
-     transition: opacity ease, transform 0.5s 0.1s;
-     scroll-behavior: smooth;
-}
-/* controle le fait d'ouvrir le nav lorsque l'on appuie sur les boutons */
- .menu-toggle {
-     display: grid;
-     grid-template-columns: repeat(6, 1fr);
-     grid-gap: 2px;
-     position: relative;
-     cursor: pointer;
-     width: 28px;
-     height: 22px;
-     z-index: 100;
-}
-/* controle la bouton pour fermer le nav */
- .menu-toggle:before {
-     content: '×';
-     position: absolute;
-     top: 0;
-     left: 0;
-     font-size: 2.4rem;
-     line-height: 0.4;
-     color: ivory;
-     z-index: 2;
-     opacity: 0;
-     transition: opacity 0.5s ease;
-}
-/* controle la bouton pour ouvrir le nav */
- .menu-toggle span {
-     display: block;
-     position: relative;
-     width: 100%;
-     height: 2px;
-     background-color: ivory;
-     border-radius: 2px;
-     transition: transform 0.4s ease;
-     transform-origin: 100% 100%;
-}
-/* Controle la largeur des spans */
- .menu-toggle span:nth-child(1) {
-     transition-delay: 0.35s;
-}
- .menu-toggle span:nth-child(2) {
-     transition-delay: 0.4s;
-}
- .menu-toggle span:nth-child(3) {
-     transition-delay: 0.45s;
-}
- .menu-toggle span:nth-child(4) {
-     transition-delay: 0.5s;
-}
- .menu-toggle span:nth-child(5) {
-     transition-delay: 0.55s;
-}
- .menu-toggle span:nth-child(6) {
-     transition-delay: 0.6s;
-}
- .menu-toggle span:nth-child(1), .menu-toggle span:nth-child(2) {
-     grid-column: span 3;
-}
- .menu-toggle span:nth-child(3), .menu-toggle span:nth-child(6) {
-     grid-column: span 2;
-}
- .menu-toggle span:nth-child(4), .menu-toggle span:nth-child(5) {
-     grid-column: span 4;
-}
-/* desactive l'apparition de la checkbox */
- #menu-toggle-input {
-     display: none;
-}
-/* controle le fait que les spans disparaissent une fois cliqués */
- #menu-toggle-input:checked ~ .menu-toggle span {
-     transform: scaleX(0);
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(1) {
-     transition-delay: 0.05s;
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(2) {
-     transition-delay: 0.1s;
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(3) {
-     transition-delay: 0.15s;
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(4) {
-     transition-delay: 0.2s;
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(5) {
-     transition-delay: 0.25s;
-}
- #menu-toggle-input:checked ~ .menu-toggle span:nth-child(6) {
-     transition-delay: 0.3s;
-}
-/* fait apparaître la croix pour fermer le menu */
- #menu-toggle-input:checked ~ .menu-toggle:before {
-     opacity: 1;
-     transition-delay: 0.75s;
-}
-/* ouvre littéralement le menu lorsque l'on clique sur le bouton (trigger le transition: transform: */
- #menu-toggle-input:checked ~ nav {
-     opacity: 1;
-     transform: translateY(0);
-     transition-delay: 0s;
-}
-
-
-/* ne sert à rien ? */
- #menu-toggle-input:checked ~ nav a {
-     color: ivory;
-     transform: translate(0, 0);
 }
