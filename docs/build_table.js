@@ -8,7 +8,12 @@ let website_links = [
 ];
 
 function switchiframe(element) {
-    document.getElementById('main').src = element.name;
+    function close_nav() {
+      console.log('loaded: ', element.value);
+      //document.getElementById("menu").style.display='block';
+  }
+  document.getElementById('main').src = element.name;
+  document.getElementById("main").addEventListener("load", close_nav);
 }
 
 function generateTable(table, data_array) {
