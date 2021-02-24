@@ -1,5 +1,4 @@
 let website_links = [
-  {title: 'DeepL', link: 'https://www.deepl.com/translator'},
   {title: 'FDN', link: 'https://www.fdn.fr/services/acces-internet/'},
   {title: 'Sci-Hub', link: 'https://sci-hub.now.sh'},
   {title: 'Z Lib', link: 'https://z-lib.org/'},
@@ -10,10 +9,10 @@ let website_links = [
 function switchiframe(element) {
     function close_nav() {
       console.log('loaded: ', element.value);
-      //document.getElementById("menu").style.display='block';
+      document.getElementById('menu').style.display='grid';
   }
   document.getElementById('main').src = element.name;
-  document.getElementById("main").addEventListener("load", close_nav);
+  document.getElementById('main').addEventListener('load', close_nav);
 }
 
 function generateTable(table, data_array) {
