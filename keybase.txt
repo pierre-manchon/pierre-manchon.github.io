@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pierremanchon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pierre-manchon.github.io
+  * I am pierremanchon (https://keybase.io/pierremanchon) on keybase.
+  * I have a public key ASA7q4dO3XIvWkvbS-Ik4xw5Y7nqCxgqqisTK4RtOrfx5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203bab874edd722f5a4bdb4be224e31c3963b9ea0b182aaa2b132b846d3ab7f1e50a",
+      "host": "keybase.io",
+      "kid": "01203bab874edd722f5a4bdb4be224e31c3963b9ea0b182aaa2b132b846d3ab7f1e50a",
+      "uid": "2dc2e43e86f2a84cace7110c179b0e19",
+      "username": "pierremanchon"
+    },
+    "merkle_root": {
+      "ctime": 1626262204,
+      "hash": "58b0ba04b96c612f0de8bc2801758a2c8fe97f756066e8956f6ee5752c940b3956755993939f89fe9125230ae64cbf31d84e5661ec2238d5fff5d4470280a221",
+      "hash_meta": "8ef41107b8a0e2085da38230eef42bb8387c51a3d14b5aaddffe28e38337a9e2",
+      "seqno": 20374360
+    },
+    "service": {
+      "entropy": "YKcmcfB5Z/Ky2DL7yImEBUJa",
+      "hostname": "pierre-manchon.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.0"
+  },
+  "ctime": 1626262439,
+  "expire_in": 504576000,
+  "prev": "32c9d37155a5ffa05e74be12fd14266896223aca7d8747c382cd848113e28f81",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgO6uHTt1yL1pL20viJOMcOWO56gsYKqorEyuEbTq38eUKp3BheWxvYWTESpcCC8QgMsnTcVWl/6BedL4S/RQmaJYiOsp9h0fDgs2EgRPij4HEIKMOjxtH2lORURJREFXCj+xt9vRq4lf8liHJENEskgt2AgHCo3NpZ8RA0QhiYxO1trd0v4Q+XMm/mI9fsDG7GiAsHafraWElGjY8Tejf8oxbQhy+XYIyMBgqyIVeyiSgJpCPHXuy27fRBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMQs8WrcWt/H9zs/3myO6/BvzFOMDaKxCtJ5VXpKuLT7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pierremanchon
+
+==================================================================
