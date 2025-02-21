@@ -1,14 +1,12 @@
-baseURL = "https://risotto.joeroe.io"
+baseURL = "pierre-manchon.github.io"
 theme = "risotto"
-title = "risotto demo"
-author = "Joe Roe"
-copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
+title = "Test"
+author = "Pierre Manchon"
+copyright = ""
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
 # Automatically add content sections to main menu
@@ -29,20 +27,15 @@ logo = "🍚"
 # or use an image:
 #logo_image = "images/rice.svg"
 
-# Sidebar: social links
-# Available icon sets:
-# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
-# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
-
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/pierre-manchon"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "mailto:pierremanchon8@gmail.com"
 
 [[params.socialLinks]]
 icon = "ai ai-orcid"
@@ -78,20 +71,20 @@ unsafe = true
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.twitter]
-    disabled = false
+    disabled = true
     enableDNT = true
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
-    disabled = false
+    disabled = true
     privacyEnhanced = true
 
 [services]
