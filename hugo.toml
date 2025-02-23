@@ -1,9 +1,8 @@
-baseURL = "https://risotto.joeroe.io"
+baseURL = "https://pierre-manchon.github.io"
 theme = "risotto"
-title = "risotto demo"
-author = "Joe Roe"
-copyright = "© [Joe Roe](https://joeroe.io) & [risotto contributors](https://github.com/joeroe/risotto/graphs/contributors)."
-paginate = 3
+title = "~"
+author = "Pierre Manchon"
+copyright = "© Pierre Manchon - 2025"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -22,8 +21,8 @@ palette = "base16-dark"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+title = "About"
+description = "Une description d'un menu tout a fait normal en fait. Je ne vais pas supprimer le texte qu'il y avait déjà d'écrit car je veux voir à quel point c'est géré par Hugo. A [hugo](https://gohugo.io) theme inspired by terminal ricing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin odio nunc, molestie commodo tincidunt sit amet, venenatis non urna. Sed blandit ex et est pharetra, vitae iaculis arcu sollicitudin. Aenean ac imperdiet sem. Phasellus finibus non ipsum sed vulputate. Nam iaculis, risus quis vulputate mattis, odio metus cursus ex, non congue erat enim et orci. Curabitur ut ipsum eu libero pharetra tincidunt. Quisque velit nibh, posuere vitae dictum a, sagittis id metus. Donec nunc elit, interdum in ullamcorper at, porta eu metus. Praesent in viverra arcu. Phasellus molestie fringilla urna, porttitor pharetra urna molestie sit amet. Vestibulum imperdiet ullamcorper tortor quis laoreet. Sed eget lacus sapien. Nulla sed mauris interdum sapien sodales interdum ut nec nisl. Duis in justo pretium, scelerisque sapien nec, dictum mauris. Praesent urna turpis, viverra et volutpat eu, ultrices ac libero. Cras condimentum, libero ut laoreet venenatis, massa ante porta lacus, vel blandit est risus sit amet odio. Proin laoreet purus ac lacinia rutrum. Aliquam tincidunt et justo eget dapibus. Vivamus mattis augue at dolor volutpat, ut luctus nisi cursus. Praesent vehicula consectetur accumsan. Aenean quam sem, aliquet ac purus ac, scelerisque porta erat. Cras bibendum vestibulum eleifend. Donec quam neque, scelerisque a maximus eu, molestie ac sem. Duis ipsum felis, imperdiet non viverra et, dictum in sem. Nunc nec aliquam diam, sit amet sollicitudin leo. Proin quis velit nec sem posuere vestibulum vitae a lorem. Suspendisse et odio nec nibh gravida interdum. Curabitur eu elit elementum, blandit ligula nec, congue ante. Proin ornare sagittis pharetra. Nulla varius lacinia magna nec sagittis. Praesent maximus velit at elementum mollis. Nulla facilisi. Quisque cursus nisl eget orci finibus, vel dictum odio vestibulum. Quisque eu massa sit amet quam varius pretium. Quisque iaculis auctor purus, in cursus tortor posuere non. Duis quis ligula nunc. Phasellus vel sem sed diam convallis porttitor. Aliquam sed pellentesque dolor, ut facilisis sapien. Vestibulum sed bibendum ante, egestas tristique lorem. Etiam in metus vestibulum, faucibus lacus eu, pulvinar tortor. Morbi malesuada, tortor sed pellentesque lacinia, diam augue fermentum est, a commodo odio nulla eget nisl. Vivamus vitae libero sed ipsum tempus ornare. Nulla luctus metus mauris, nec tempus augue varius nec. Aliquam augue est, pretium ac sem vitae, lobortis consequat ante. Vestibulum luctus semper augue ut maximus. Maecenas sit amet ex vel risus euismod commodo. Vestibulum varius, nisl a pellentesque lacinia, nisi leo imperdiet sapien, sed gravida massa augue vel ex. Duis tellus tortor, congue at eleifend non, pulvinar eu sapien. In eget volutpat justo. Integer et felis molestie, pretium sapien non, egestas urna. Vivamus auctor nisi eu lectus ornare euismod. Suspendisse rutrum ligula id ligula mattis, eu ultricies eros porta. Integer quis rutrum enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin urna dolor, mattis et sapien quis, maximus gravida massa. Aenean ullamcorper ullamcorper purus at consequat. Quisque laoreet justo consequat dui elementum, sit amet dictum tellus dictum. Donec sapien mauris, pulvinar ut sagittis quis, tristique ac mauris. Etiam gravida nibh id pulvinar blandit. Vivamus malesuada turpis dolor. Donec facilisis quam sit amet fringilla porttitor. Nulla lacinia neque at nunc porta, et lobortis nibh aliquam. Aliquam ac nunc ultrices sem euismod hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit"
 # unicode/emoji logo:
 logo = "🍚"
 # or use an image:
@@ -35,22 +34,21 @@ logo = "🍚"
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
 [[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+    icon = "fa-brands fa-github"
+    title = "GitHub"
+    url = "https://github.com/pierre-manchon"
 
 [[params.socialLinks]]
-icon = "fa-solid fa-envelope"
-title = "Email"
-url = "mailto:example@example.com"
+    icon = "fa-solid fa-envelope"
+    title = "Email"
+    url = "mailto:pierre.manchon@pm.me"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+    icon = "ai ai-orcid"
+    title = "ORCID"
+    url = "https://orcid.org/0000-0001-2669-9879"
 
 [menu]
-
   [[menu.main]]
     identifier = "about"
     name = "About"
@@ -58,16 +56,15 @@ url = "https://orcid.org/0000-0001-2345-6789"
     weight = 10
 
 [taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
+    category = "categories"
+    tag = "tags"
+    series = "series"
 
 # For hugo >= 0.60.0, enable inline HTML
 [markup.goldmark.renderer]
-unsafe = true
+    unsafe = true
 
 [markup]
-
   # Table of contents
   # Add toc = true to content front matter to enable
   [markup.tableOfContents]
@@ -76,12 +73,11 @@ unsafe = true
     ordered    = true
 
 [privacy]
-
   [privacy.vimeo]
     disabled = false
     simple = true
 
-  [privacy.twitter]
+  [privacy.x]
     disabled = false
     enableDNT = true
     simple = true
@@ -95,9 +91,20 @@ unsafe = true
     privacyEnhanced = true
 
 [services]
-
   [services.instagram]
     disableInlineCSS = true
 
   [services.twitter]
     disableInlineCSS = true
+
+[build]
+  noJSConfigInAssets = false
+  useResourceCacheWhen = 'fallback'
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = false
+  [[build.cacheBusters]]
+    source = '(postcss|tailwind)\.config\.js'
+    target = '(css|styles|scss|sass)'
